@@ -16,3 +16,5 @@
 wear what ever hats u want it will work
 
 ]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Plebby12/Reality-Hub/main/RHScript%20OB.txt", true))()
